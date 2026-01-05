@@ -22,11 +22,6 @@
 
 ---
 
-### 📊 Github Stats
-https://github-readme-stats.vercel.app/api?username=MysticalHuman&show_icons=true&theme=radical
-
----
-
 ### 🔭 Beyond the Code
 When I'm not debugging or pushing pixels, you can find me:
 * 📸 Exploring the outside world.
