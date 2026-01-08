@@ -18,7 +18,10 @@
 ### 🧪 Current Experiments
 *What I’m currently "cooking" in the lab:*
 
-* **HypeFit**: HypeFit is a social platform designed specifically for the "Outfit of the Day" (#OOTD) culture. While Instagram is for your general life, HypeFit is a specialized digital runway where every post is a structured breakdown of a look. It combines the visual appeal of Instagram with the utility of a fashion database..
+* **FitHype**: HypeFit is a social platform designed specifically for the "Outfit of the Day" (#OOTD) culture. While Instagram is for your general life, HypeFit is a specialized digital runway where every post is a structured breakdown of a look. It combines the visual appeal of Instagram with the utility of a fashion database..
+
+### 💼 Finished Projects
+* **The Vault**: A premium, local-first code snippet library designed for the modern developer. Built with a "Glassmorphism" aesthetic, The Vault provides a high-performance workspace to archive, search, and manage your most valuable code artifacts..
 
 ---
 
